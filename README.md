@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @magicintech
+- 👀 I’m interested in building Software Projects, educating other through blogs and video tutorials
+- 💞️ I’m looking to collaborate on software projects 
+- 📫 How to reach me : contact.magicintech@gmail.com
